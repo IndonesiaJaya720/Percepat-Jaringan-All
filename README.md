@@ -1,6 +1,6 @@
 # Percepat-Jaringan-All.
 # Script Hanya Khusus Mempercepat Jaringan
-  Kartu Saja Wifi Tidak Ada.
+# Kartu Saja Wifi Tidak Ada.
 # Silakan Me recond Script Saya.
 
 
