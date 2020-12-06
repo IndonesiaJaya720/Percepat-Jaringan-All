@@ -1,9 +1,6 @@
 # Percepat-Jaringan-All.
-# Script Hanya Khusus Mempercepat Jaringan
-# Kartu Saja Wifi Tidak Ada.
+# Script Hanya Khusus Mempercepat Jaringan.
 # Silakan Me recond Script Saya.
-
-
 
 # Cara Penginstallan Script Ini
 # pkg update && pkg upgrade
@@ -14,9 +11,11 @@
 # cd Percepat-Jaringan-All
 # ls
 # sh percepat.sh
-
+# Atau.
+# bash Mr_RB
 
 
 # Sekian
 # Terima Kasih
 # +_____+
+# MR_RB
