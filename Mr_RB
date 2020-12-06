@@ -1,0 +1,106 @@
+#!/bin/bash
+
+echo ""
+echo " Selamat Memilih Kawan    "
+echo " Silakan Memilih Tools Ya "
+echo " Mau Recond Ya......      "
+echo ""
+sleep 3
+echo ""
+echo " Pemilik Script : Mr_RB   "
+echo " Nomer Wa : 0895392705209 "
+echo " Facebook : .......       "
+sleep 3
+echo ""
+echo "(1) [        TRE.CO.ID          ] (1) "
+echo "(2) [     MY.TELKOMSEL.COM      ] (2) "
+echo "(3) [      WWW.SIMPATI.COM      ] (3) "
+echo "(4) [     WWW.SMARTFREN.COM     ] (4) "
+echo "(~) [          exit             ] (~) "
+echo "(=) [       SELANJUNYA          ] (=) "
+echo ""
+read -p "masukan pilihan anda :" pilih;
+if [ $pilih = "1" ]
+then
+   echo " $ • [ THREE.CO.ID ] • $ "
+   cd $HOME
+   echo " $ ° [ ---------- ] ° $ "
+   echo " $ ° [   THREE    ] ° $ "
+   echo " $ ° [ ---------- ] ° $ "
+   echo ""
+   clear
+   sleep 3
+   echo " [ --------- ] "
+   pkg update && pkg upgrade
+   ping 103.10.66.230
+   sleep 1
+   echo " GOOD BAY "
+   clear
+   elif [ $pilih = "2" ]
+then
+   echo " # ° [ MY.TELKOMSEL.COM ] ° # "
+   cd $HOME
+   echo " # ° [  ~ ~ ~ ~ ~ ~  ] ° # "
+   echo " # ° [   TELKOMSEL   ] ° # "
+   echo " # ° [  ~ ~ ~ ~ ~ ~  ] ° # "
+   echo ""
+   clear
+   sleep 3
+   echo " [ ~~~~~~~~~ ] "
+   pkg update && pkg upgrade
+   ping 202.3.219.99
+   sleep 1
+   echo " GOOD BAY "
+   clear
+elif [ $pilih = "3" ]
+then
+   echo " # ° [ WWW.SIMPATI.COM ] ° # "
+   cd $HOME
+   echo " # ° [  ~ ~ ~ ~ ~ ~ ] ° # "
+   echo " # ° [   SIMPATI    ] ° # "
+   echo " # ° [  ~ ~ ~ ~ ~ ~ ] ° # "
+   echo ""
+   clear
+   sleep 3
+   echo " [ ~ ~ ~ ~ ~ ~ ] "
+   pkg update && pkg upgrade
+   ping 52.232.102.126
+   sleep 1
+   echo " GOOD BAY "
+   clear
+elif [ $pilih = "~" ]
+then
+   echo ""
+   echo " # ° [    EXIT    ] ° # "
+   echo " # ° [ SELAMAT TINGGAL ] ° # "
+   echo " # ° [  GOOD BAY  ] ° # "
+   sleep 5
+   clear
+elif [ $pilih = "4" ]
+then
+   echo " # ° [ ~ ~ ~ ~ ~ ~ ] ° # "
+   cd $HOME
+   clear
+   echo " # ° [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ] ° # "
+   echo " # ° [  WWW.SMARTFREN.COM  ] ° # "
+   echo " # ° [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ] ° # "
+   echo ""
+   clear
+   sleep 3
+   pkg update && pkg upgrade
+   ping 202.70.53.133
+   sleep 1
+   clear
+elif [ $pilih = "=" ]
+then
+   echo " # [ ----------- ] # "
+   cd $HOME
+   clear
+  echo " # [ ----------------------- ] # "
+  echo " # [  KUNJUNGIN WEBSET KAMI  ] # "
+  echo " # [ ----------------------- ] # "
+  sleep 3
+  echo "
+  echo " [ https://mrs-rb.blogspot.com/2020/12/mrrb_5.html ] # "
+  echo " [ Terima Kasih ] "
+fi
