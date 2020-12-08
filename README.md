@@ -10,9 +10,9 @@
 # ls
 # cd Percepat-Jaringan-All
 # ls
-# sh percepat.sh
-# Atau.
 # bash Mr_RB
+# sh WifiAll.sh
+
 
 
 # Sekian
